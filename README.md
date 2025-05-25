@@ -1,2 +1,1 @@
-# MUSIC-RECCOMENDATION-SYSTEM-
-Music Recommendation System based on Face Emotion Recognition using 
+Used the FER-2023 dataset to recognize facial emotions using a Convolutional Recurrent Neural Network (CRNN). CNNs for extracting spatial features and RNNs (LSTM) for capturing facial expressions' temporal dependencies were combined. With 85% accuracy, the model was trained using Adam optimization and categorical cross-entropy loss. This method produced good performance for emotion recognition by successfully capturing both spatial and sequential patterns.
